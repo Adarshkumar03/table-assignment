@@ -1,6 +1,6 @@
-#Screenshots
-[screenshot1](/public/screenshot1.PNG)
-[screenshot2](/public/screenshot2.PNG)
+# Screenshots
+![screenshot1](/public/screenshot1.PNG)
+![screenshot2](/public/screenshot2.PNG)
 
 # Getting Started with Create React App
 
