@@ -1,3 +1,7 @@
+#Screenshots
+[screenshot1](/public/screenshot1.PNG)
+[screenshot2](/public/screenshot2.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
